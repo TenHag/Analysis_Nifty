@@ -1,12 +1,13 @@
 # Nifty Returns
 This script generates a bubble chart visualizing the relationship between average return and risk (standard deviation) of Nifty returns for different periods. The size of each bubble represents the period.
 
-Requirements
+# Requirements
 Python 3.x
 Pandas
 Seaborn
 Matplotlib
-Usage
+
+# Usage
 Ensure you have the required dependencies installed.
 Place your data file named data.csv in the same directory as the script.
 Run the script using python script.py.
